@@ -1,0 +1,24 @@
+body {
+   background-color: black;
+}
+
+h1 {
+   color: white;
+   text-align: center;
+}
+
+p {
+   font-family: verdana;
+   font-size: 20px;
+	color: white;
+}
+h1 {
+	border:2px solid white;
+}
+p {
+   border:2px solid white;
+}
+img {
+   border: 5px solid #555;
+	border-image-source: white
+}
